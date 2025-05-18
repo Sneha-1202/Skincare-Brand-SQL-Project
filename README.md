@@ -69,7 +69,7 @@ The key dashboards include:
 
 -Tabular Reports – Presents structured data with key metrics for better analysis and comparison.
 
-
+![Image](https://github.com/user-attachments/assets/56f31d9c-7f38-4365-89d7-890a7fed8c13)
 
 
 
