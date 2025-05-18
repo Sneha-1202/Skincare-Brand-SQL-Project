@@ -3,12 +3,6 @@
 ### Project Statement 
 The Skincare Brand Data Project aims to analyze customer behavior, marketing campaigns, product performance, and sales trends. The project involves importing raw data into MS SQL Server, cleaning and managing the data, and generating insights through SQL queries before visualizing the results in Power BI.
 
-
-### Power BI Dashboard:
-
-https://app.powerbi.com/groups/56584354-4274-4708-9ee2-06c03576bfde/reports/09232ebb-61e2-4a40-a283-e916677e9b36/508eb80387044685cecb?experience=power-bi
-
-
 ## Key Features Include:
 
 -Understand customer demographics and purchasing behavior.
@@ -74,6 +68,8 @@ The key dashboards include:
 -Product Demand Analysis – Highlights best-selling products and stock availability by category.
 
 -Tabular Reports – Presents structured data with key metrics for better analysis and comparison.
+
+
 
 
 
